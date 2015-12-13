@@ -1,3 +1,3 @@
 # test1
-test.
+test. CRLF
 this is the difference.
