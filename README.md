@@ -1,3 +1,3 @@
 # test1
-test\\
+test\n
 this is the difference
